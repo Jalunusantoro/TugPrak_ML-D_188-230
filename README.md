@@ -1,7 +1,9 @@
 # TugPrak_ML-D_188-230
 
 Klasifikasi Citra Penyakit Radang Paru-Paru dan Paru Paru Terindikasi COVID19 Menggunakan Metode CNN
+
 Link Dataset : https://www.kaggle.com/prashant268/chest-xray-covid19-pneumonia
+
 telah menghasilkan beberapa tahapan dengan skenario yang berbeda - beda, sebagai berikut:
 
 1.) Prak_Kelompok_ML_Modul2 => Tanpa skenario splitting dan menggunakan gether data dalam preprocessingnya dengan nilai akurasi 20% dan 22%
@@ -24,6 +26,7 @@ Praktikum Semester 7 Machine Learning
 
 Jalu Nusantoro (201810370311188)
 Faldo Fajri Afrinanto (201810370311230)
+
 Universitas Muhammadiyah Malang
 Fakultas Teknik
 Informatika
